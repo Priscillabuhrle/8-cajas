@@ -1,0 +1,35 @@
+/* Inserta tu CSS aqui */
+.box{
+	width: 100px;
+	height: 100px;
+	background-color:#9C9090;
+	border: 1px solid black;
+	display: inline-block;
+}
+.contenedor {
+	width: 360px;
+	height: 120px;
+	display: block;
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+.dentro {
+	display: inline-block;
+	border: 1px solid black;
+}
+.solo{
+	display: inline-block;
+	margin: 10px;
+}
+.ultimo{
+	display: block;
+
+}
+.primero{
+	margin-bottom: 2px;
+}
+.penultimo, .alfa{
+	margin-left: 0;
+}
+
+
